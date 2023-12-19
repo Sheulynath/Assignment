@@ -1,2 +1,2 @@
-This repository consists information related to the various weeks in Software Quality Assurance module.
-Here youu can find the different tasks and assignments present within the module.
+This repository consists of information related to the various weeks in the Software Quality Assurance module.
+Here you can find the different tasks and assignments present within the module.
